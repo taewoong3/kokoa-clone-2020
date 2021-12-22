@@ -210,8 +210,8 @@
 }
 
 .reply input:focus {
-  width: 98vw;
-  transform: translateX(-10%) translateY(-80px);
+  width: 97vw;
+  transform: translateX(-12%) translateY(-80px);
 }
 /* ↓ reply 안에 있는 무언가가 focus된다면,,, transform이 작동한다. */
 .reply:focus-within {
