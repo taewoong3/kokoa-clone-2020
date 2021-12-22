@@ -32,7 +32,7 @@
 }
 
 .main-chat {
-  margin-top: 120px;
+  margin-top: 180px;
   font-size: 14px;
   display: flex;
   flex-direction: column;
@@ -210,7 +210,7 @@
 }
 
 .reply input:focus {
-  width: 96vw;
+  width: 98vw;
   transform: translateX(-10%) translateY(-80px);
 }
 /* ↓ reply 안에 있는 무언가가 focus된다면,,, transform이 작동한다. */
