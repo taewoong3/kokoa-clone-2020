@@ -11,7 +11,11 @@
   top: 0;
 }
 
+<<<<<<< HEAD
 @media screen and (min-width: 1200px) {
+=======
+@media screen and (max-width: 2000px) {
+>>>>>>> 17c6c248d39dfedf67faad40be496d4586722a37
   #no-mobile {
     display: none;
   }
